@@ -4,6 +4,8 @@
 
 Your business acquisition opportunity scoring algorithm has been successfully created, configured, and executed in the Jupyter notebook.
 
+Example url: https://www.bizbuysell.com/massachusetts/plymouth-county-established-businesses-for-sale/?q=cGZyb209NTAwMDAmcHRvPTI1MDAwMA%3D%3D
+
 ### What Was Done
 
 #### 1. **Project Setup with `uv`**
