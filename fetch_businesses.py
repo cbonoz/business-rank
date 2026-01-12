@@ -74,7 +74,7 @@ def fetch_businesses(use_cache=True):
         "bfsSearchCriteria": {
             "siteId": 20,
             "languageId": 10,
-            "categories": None,
+            "categories": [],
             "locations": [
                 {
                     "geoType": 20,
@@ -91,14 +91,14 @@ def fetch_businesses(use_cache=True):
                 }
             ],
             "excludeLocations": None,
-            "askingPriceMax": 250000,
+            "askingPriceMax": 200000,
             "askingPriceMin": 50000,
             "pageNumber": 1,
             "daysListedAgo": 0,
             "brokerCertification": 0,
             "includeRealEstateForLease": 0,
             "brokerMembership": 0,
-            "listingTypeIds": [40, 20],
+            "listingTypeIds": [40, 30, 20],
             "designationTypeIds": [],
             "sortList": None,
             "listingsWithPriceReduced": 0,
