@@ -14,7 +14,7 @@ API_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJhOTg2YTIyYS1kN2Y0LT
 
 def get_cache_path():
     """Get the path to the cache file."""
-    return Path(__file__).parent.parent / "data" / "businesses_cache.json"
+    return Path(__file__).parent / "data" / "businesses_cache.json"
 
 
 def load_cached_data():
